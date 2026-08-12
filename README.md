@@ -1,4 +1,4 @@
-# gguf_meta
+# gguf-info
 
 Simple tool to read metadata from GGUF model files.
 
